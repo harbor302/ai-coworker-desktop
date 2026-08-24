@@ -1,0 +1,30 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bilibili">
+  <rect width="512" height="512" rx="88" fill="#EA5787"/>
+  <g opacity="0.42" stroke="#F7A0BE" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M174 80L214 146" stroke-width="36"/>
+    <path d="M333 80L292 146" stroke-width="36"/>
+    <path d="M81 161C89 141 106 132 131 128C174 122 213 122 256 122C299 122 338 122 381 128C406 132 423 141 431 161C446 200 452 337 420 391C398 429 348 432 256 432C164 432 114 429 92 391C60 337 66 200 81 161Z" stroke-width="48"/>
+  </g>
+  <g opacity="0.34">
+    <rect x="126" y="249" width="30" height="124" rx="15" fill="#F7A0BE"/>
+    <rect x="185" y="218" width="30" height="93" rx="15" fill="#F7A0BE"/>
+    <rect x="278" y="218" width="30" height="93" rx="15" fill="#F7A0BE"/>
+    <rect x="352" y="249" width="30" height="124" rx="15" fill="#F7A0BE"/>
+    <path d="M140 266C169 260 197 247 230 225" stroke="#F7A0BE" stroke-width="30" stroke-linecap="round"/>
+    <path d="M256 310L278 333L299 310" stroke="#F7A0BE" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M311 233L379 266" stroke="#F7A0BE" stroke-width="30" stroke-linecap="round"/>
+  </g>
+  <g fill="#FFFFFF" transform="translate(29 169) skewX(-7)">
+    <path d="M0 17L35 3V119C49 116 64 116 79 119C101 123 120 133 135 148C122 164 104 175 80 181C50 188 23 189 0 186V17ZM55 138C48 137 41 137 35 138V171C47 169 60 164 73 156C64 149 58 143 55 138Z"/>
+    <path d="M122 62L147 59L163 178L138 181L122 62Z"/>
+    <path d="M158 60L181 59V174L158 177V60Z"/>
+    <path d="M187 22L210 21L227 175L204 177L187 22Z"/>
+    <path d="M227 60H250V176H227V60Z"/>
+    <path d="M266 17L301 3V119C315 116 330 116 345 119C367 123 386 133 401 148C388 164 370 175 346 181C316 188 289 189 266 186V17ZM321 138C314 137 307 137 301 138V171C313 169 326 164 339 156C330 149 324 143 321 138Z"/>
+    <path d="M388 62L413 59L429 178L404 181L388 62Z"/>
+    <path d="M424 60L447 59V174L424 177V60Z"/>
+    <path d="M453 22L476 21L493 175L470 177L453 22Z"/>
+    <path d="M493 60H516V176H493V60Z"/>
+    <path d="M112 61H124V91H112V61ZM151 60H163V90H151V60ZM190 60H202V90H190V60ZM227 60H239V90H227V60ZM378 61H390V91H378V61ZM417 60H429V90H417V60ZM456 60H468V90H456V60ZM493 60H505V90H493V60Z"/>
+  </g>
+</svg>
